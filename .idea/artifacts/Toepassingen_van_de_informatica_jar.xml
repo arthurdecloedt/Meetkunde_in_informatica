@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Toepassingen van de informatica:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="Toepassingen van de informatica.jar">
+      <element id="module-output" name="Toepassingen van de informatica" />
+    </root>
+  </artifact>
+</component>
